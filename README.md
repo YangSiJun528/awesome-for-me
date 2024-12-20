@@ -31,8 +31,13 @@
     - 한국어로 번역된 책 제목은 "네트워킹과 웹 성능 최적화 기법".  
     - 구글 출신 Ilya Grigorik의 자료.
 
-- **🎬 [Network Protocol (Destroy All Software)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)** - 네트워크 스택 동작에 대한 간결한 강연. (20분 소요)  
+- **🎬 [Network Protocol (Destroy All Software)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)** - 네트워크 스택 동작에 대한 짦은 글. (20 minute read)  
     - _Reliable transmission_ 섹션이 특히 흥미로움.
+
+## 📃 자료 아카이브 
+
+- **🌐 [free-programming-books](https://ebookfoundation.github.io/free-programming-books-search/)** - 다양한 언어로 제공되는 무료 학습 리소스 목록.
+    - 매우 많은 자료가 있다. 어셈블리어 같은 마이너한 자료도 많음.
 
 ---
 
