@@ -25,7 +25,7 @@
 ## 📡 Network
 
 - **📚 [컴퓨터 네트워킹: 하향식 접근 (Computer Networking: A Top-Down Approach)](https://www.yes24.com/Product/Search?domain=BOOK&query=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520%25EB%2584%25A4%25ED%258A%25B8%25EC%259B%258C%25ED%2582%25B9%253A%2520%25ED%2595%2598%25ED%2596%25A5%25EC%258B%259D%2520%25EC%25A0%2591%25EA%25B7%25BC(Computer%2520Networking%2520A%2520Top%2520Down%2520Approach))** - 네트워크 개념을 잡기 좋은 책.  
-    - 빠르게 훑어보려면 [GitHub에 정리된 Repository](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach) 참고.
+    - 빠르게 훑어보려면 [📂 GitHub에 정리된 Repository](https://github.com/IT-Book-Organization/Computer-Networking_A-Top-Down-Approach) 참고.
 
 - **📚 [High Performance Browser Networking](https://hpbn.co/)** - 웹 개발자를 위한 네트워킹과 웹 성능 최적화 기법. 무료로 읽을 수 있음.  
     - 한국어로 번역된 책 제목은 "네트워킹과 웹 성능 최적화 기법".  
