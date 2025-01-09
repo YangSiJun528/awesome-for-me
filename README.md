@@ -35,7 +35,7 @@
 ## Java, Kotlin, JVM
 
 - **📝 [Java 컴파일에서 실행까지(HomoEfficio 블로그)](https://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-1/)** - Java 코드가 실행되는 과정을 잘 설명한 글. 
-    - 여태까지 본 글 중 제일 잘 정리되어있음. JVM 기반 개발자는 한 번쯤은 보는걸 추천.
+    - JVM 언어 사용하는 개발자는 한 번쯤은 보는걸 추천.
 
 ## 📡 Network
 
@@ -59,7 +59,7 @@
 ## 📃 자료 아카이브 
 
 - **🌐 [free-programming-books](https://ebookfoundation.github.io/free-programming-books-search/)** - 다양한 언어로 제공되는 무료 학습 리소스 목록.
-    - 매우 많은 자료가 있다. 어셈블리어 같은 마이너한 자료도 존쟈.
+    - 매우 많은 자료가 있다. 어셈블리어 같은 마이너한 자료도 있음.
 
 ## 🚀 Fun
 
