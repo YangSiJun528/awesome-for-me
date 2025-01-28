@@ -56,6 +56,9 @@
     - 다만. 분량 상의 문제로 생략된 설명(Resigter 동작, OS의 가상 메모리나 인터럽트 등)이 있는건 아쉬운 부분.
     - 하드웨어 파트를 게임으로 구현한 [nandgame 사이트](https://nandgame.com/).
 
+- **[📝 Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)** - C언어 1000 줄로 구현되는 간단한 OS 만들기.
+    - [한국어 번역본](https://operating-system-in-1000-lines.vercel.app/ko/)이 존재한다.
+
 ## 📃 자료 아카이브 
 
 - **🌐 [free-programming-books](https://ebookfoundation.github.io/free-programming-books-search/)** - 다양한 언어로 제공되는 무료 학습 리소스 목록.
