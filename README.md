@@ -56,8 +56,24 @@
     - 다만. 분량 상의 문제로 생략된 설명(Resigter 동작, OS의 가상 메모리나 인터럽트 등)이 있는건 아쉬운 부분.
     - 하드웨어 파트를 게임으로 구현한 [nandgame 사이트](https://nandgame.com/).
 
-- **[📝 Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)** - C언어 1000 줄로 구현되는 간단한 OS 만들기.
+- **[📝 Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)** - C언어 1000 줄로 구현하는 간단한 OS 만들기.
     - [한국어 번역본](https://operating-system-in-1000-lines.vercel.app/ko/)이 존재한다.
+
+## Encoding
+
+- **[📝 The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)** - 모든 개발자가 알아야 하는 유니코드에 대한 최소한의 지식
+    - �(`U+FFFD`), 유니코드와 8, 16, 32 인코딩, 코드포인트와 확장 문자소 클러스터, USC-2와 UTF-16(Java나 JS가 UTF-16을 사용하는 이유) 등. 유니코드와 관련된 여러가지 설명.
+    - 짦으면서도 핵심적인 내용을 잘 설명하는 글이다.
+
+- **[📝 아�니 이 글자 왜 들어간 거예요?](https://yozm.wishket.com/magazine/detail/2836/)** - 유니코드, 특히 한글과 관련한 이야기.
+
+- **[📝 UTF-8 Everywhere](https://utf8everywhere.org/)** - UTF-16 대신 UTF-8을 사용해야 한다고 주장하는 글.
+    - 이 주장에 동의하는가와는 별개로 알아두면 좋은 내용이 많아서 추천.
+    - 내가 AI 써서 [번역한 글](https://gist.github.com/YangSiJun528/59a50c19976554aa317a5a9c6c8a7be6)도 있음.
+
+- **[📝 Hidden Messages in Emojis and Hacking the US Treasury](https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking)** - UTF-8의 특징을 사용한 PostgreSQL의 취약점으로 인해 발생한 미국 재무부 DB 해킹 문제를 설명하는 글
+    - 안전한 텍스트 처리를 구현하는 것이 어렵다는 것을 잘 보여주는 예.
+    - CVE번호: CVE-2025-1094
 
 ## 📃 자료 아카이브 
 
